@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo-telecine.238fd604.svg"
   },
   {
-    "revision": "8c0ca190a47aede4bd6a",
-    "url": "/static/css/main.250882c6.chunk.css"
+    "revision": "5ab12f74564a0c35fab2",
+    "url": "/static/css/main.3caec2ee.chunk.css"
   },
   {
     "revision": "65407b2d05b9c494f006",
@@ -32,12 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/share-gray-s.2e9ef69e.svg"
   },
   {
-    "revision": "8c0ca190a47aede4bd6a",
-    "url": "/static/js/main.8c0ca190.chunk.js"
+    "revision": "5ab12f74564a0c35fab2",
+    "url": "/static/js/main.5ab12f74.chunk.js"
   },
   {
     "revision": "4ee3f7969e6b1c344c4565b4fb6b4b32",
     "url": "/static/media/play-small-player-w.4ee3f796.svg"
+  },
+  {
+    "revision": "6f47bcfc065790f02ed3cb8b51bef56f",
+    "url": "/static/media/Nunito-Bold.6f47bcfc.ttf"
   },
   {
     "revision": "76e62b379c08d7d94c86ad5301d4abb5",
@@ -52,15 +56,11 @@ self.__precacheManifest = [
     "url": "/static/media/Nunito-ExtraLight.26a1ec90.ttf"
   },
   {
-    "revision": "6f47bcfc065790f02ed3cb8b51bef56f",
-    "url": "/static/media/Nunito-Bold.6f47bcfc.ttf"
-  },
-  {
     "revision": "65bb0a158ee1967292ee4d11079d45ae",
     "url": "/static/media/Nunito-Regular.65bb0a15.ttf"
   },
   {
-    "revision": "0e484e8e5a144311d2384c8a9b20db21",
+    "revision": "a7a429f70dfadc9fd217dbf825aa3ea4",
     "url": "/index.html"
   }
 ];
